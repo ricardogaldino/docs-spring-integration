@@ -1,2 +1,1 @@
-# docs-spring-integration
-Spring Integration
+# Spring Integration
